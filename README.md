@@ -3,3 +3,5 @@
 gaeunchoi
 
 add branch `new branch`
+
+stash finish -> add -> commit
